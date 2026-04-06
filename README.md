@@ -29,7 +29,6 @@ a.   KVL:
 6.   Record the voltage values shown in the voltmeter connected across each resistor.
 7.   Take readings for different values of input voltage and tabulate them.
 
-
 b.  KCL:
 1.   Connect as per the circuit diagram.
 2.   Check if the RPS voltage is set to zero voltage.
